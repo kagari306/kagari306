@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is just a profile of an otaku coder
+There is just a profile page of an otaku coder
 
 ![Kagari306's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagari306&show_icons=true&theme=dark)
 
