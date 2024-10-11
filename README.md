@@ -2,7 +2,7 @@
 
 There is just a profile page of an otaku coder
 
-![Kagari306's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagari306&show_icons=true&theme=dark)
+![Kagari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagari306&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagari306&show_icons=true&theme=dark)
 
