@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-There is just a profile page of an otaku coder
+Just an otaku coder with too many side projects and not enough time.
 
 ![Kagari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagari306&show_icons=true&theme=dark)
 
