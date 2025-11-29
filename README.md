@@ -2,10 +2,9 @@
 
 Just an otaku coder with too many side projects and not enough time.
 
-![Kagari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagari306&show_icons=true&theme=dark)
+[![Kagari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagari306&show_icons=true&theme=dark)](https://github.com/kagari306/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagari306&show_icons=true&theme=dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagari306&show_icons=true&theme=dark)](https://github.com/kagari306/github-readme-stats)
 
 ## Links
 
