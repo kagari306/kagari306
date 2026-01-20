@@ -10,6 +10,7 @@ Just an otaku coder with too many side projects and not enough time.
 
 [Matrix Group](https://matrix.to/#/#kagari306-official:matrix.org)
 
+[Telegram Group](https://t.me/kagari306official)
 
 <!--
 ## Hi there 👋
